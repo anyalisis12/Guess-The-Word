@@ -1,8 +1,8 @@
 # Guess-The-Word
 Developed a word guessing game using HTML, CSS, and JavaScript. The player has a limited number of attempts to predict the letters of a 
 randomly picked word.
-Steps to play the word guessing game
-Let's Start
+* Steps to play the word guessing game
+
 1) Start game
 ![image](https://github.com/user-attachments/assets/827af689-09b5-4d76-b093-a9ccb3d1bc47)
  Right Guessing
